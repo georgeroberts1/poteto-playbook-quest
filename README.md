@@ -2,6 +2,8 @@
 
 A small game that explains each `/poteto-mode` playbook from [pstack](https://github.com/cursor/plugins/tree/main/pstack) for learners. Pick a level and watch the potato walk through the steps.
 
+Play it at https://georgeroberts1.github.io/poteto-playbook-quest/. It is also linked from [AI Stuff](https://georgeroberts1.github.io/ai-stuff/), a collection of my AI projects.
+
 Turn on **CS mode** on the home screen for a harder version aimed at computer science students. Each playbook gets a CS lens (a real concept such as Amdahl's law or topological sort, with code), an order-the-steps puzzle, and a harder boss question.
 
 ```text
